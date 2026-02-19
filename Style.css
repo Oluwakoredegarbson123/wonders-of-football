@@ -1,0 +1,40 @@
+/* This sets the Sky Blue background for the whole site */
+body {
+    background-color: #6CABDD; 
+    color: #ffffff;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    padding: 40px;
+    margin: 0;
+}
+
+/* This makes your school portfolio sections look clean and professional */
+section {
+    background-color: white;
+    color: #333;
+    padding: 25px;
+    border-radius: 15px;
+    max-width: 700px;
+    margin: 20px auto;
+    border-bottom: 5px solid #1C2C5B; /* Dark Navy accent */
+}
+
+/* This styles your navigation menu */
+nav {
+    margin-bottom: 40px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 15px;
+    background-color: #1C2C5B;
+    border-radius: 8px;
+    margin: 0 5px;
+}
+
+/* This adds a gold highlight for your 'Bright Student' skills */
+strong {
+    color: #b8860b; 
+}
